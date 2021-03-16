@@ -13,7 +13,7 @@ import imgaug
 import PIL.Image
 import numpy as np
 
-from . import tools
+from keras_ocr import tools
 
 
 def _read_born_digital_labels_file(labels_filepath, image_folder):
