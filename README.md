@@ -10,7 +10,7 @@ Please see [the documentation](https://keras-ocr.readthedocs.io/) for more examp
 
 ```bash
 # To install from master
-pip install git+https://github.com/faustomorales/keras-ocr.git#egg=keras-ocr
+pip install git+https://github.com/neel-brave/keras-ocr.git#egg=keras-ocr
 
 # To install from PyPi
 pip install keras-ocr
